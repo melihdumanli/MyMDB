@@ -1,0 +1,4 @@
+
+Actor{Adı: Brad Pitt, Doğum Yılı: 1963, Ölüm Yılı: \N, Meslek: actor,producer,soundtrack, Bilinen Eserler: [12 Monkeys 1995 Mystery,Sci-Fi,Thriller , Mr. & Mrs. Smith 2005 Action,Comedy,Crime , Episode #1.832 \N Drama , Episode #1.6799 1982 Crime,Drama,Mystery ]}
+Actor{Adı: Marlon Brando, Doğum Yılı: 1924, Ölüm Yılı: 2004, Meslek: actor,soundtrack,director, Bilinen Eserler: [On the Waterfront 1954 Crime,Drama,Thriller , Apocalypse Now 1979 Drama,Mystery,War , The Godfather 1972 Crime,Drama , Last Tango in Paris 1972 Drama,Romance ]}
+Actor{Adı: Julia Roberts, Doğum Yılı: 1967, Ölüm Yılı: \N, Meslek: actress,producer,soundtrack, Bilinen Eserler: [Pretty Woman 1990 Comedy,Romance , Erin Brockovich 2000 Biography,Drama , Closer 2004 Drama,Romance , Jalapeno Snacks Taste Test 2020 Comedy,Family,Talk-Show ]}
