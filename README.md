@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melih DUMANLI</h1>
-<h3 align="center">A Smart Java Developer and Engineer</h3>
+<h3 align="center">A Clever Java Developer and Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melihdumanli&label=Profile%20views&color=0e75b6&style=flat" alt="melihdumanli" /> </p>
 
